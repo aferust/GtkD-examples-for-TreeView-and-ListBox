@@ -1,0 +1,13 @@
+{
+	"authors": [
+		"user"
+	],
+	"copyright": "Copyright © 2020, user",
+	"dependencies": {
+		"gtk-d:gtkd": "~>3.9.0",
+		"arsd-official:sqlite": "*"
+	},
+	"description": "A minimal D application.",
+	"license": "boost",
+	"name": "gtkdexample"
+}
